@@ -1,0 +1,4 @@
+﻿  Econo-Flight Airline Reservation Program W 2024.c
+D:\PRG255(2024)\Final_Project\Final_Project\Econo-Flight Airline Reservation Program W 2024.c(312,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+D:\PRG255(2024)\Final_Project\Final_Project\Econo-Flight Airline Reservation Program W 2024.c(317,38): warning C4477: 'sscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'bool *'
+  Final_Project.vcxproj -> D:\PRG255(2024)\Final_Project\Final_Project\x64\Debug\Final_Project.exe
